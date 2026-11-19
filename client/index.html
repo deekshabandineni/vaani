@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#1f3a34" />
+  <title>Vaani · pronunciation coach</title>
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand"><span class="mark">వా</span> Vaani</div>
+    <nav id="nav" hidden>
+      <button data-view="practice" class="tab active">Practice</button>
+      <button data-view="progress" class="tab">Progress</button>
+    </nav>
+    <div class="status">
+      <span id="model-status" class="pill">model…</span>
+      <span id="sync-status" class="pill off" title="Live sync">offline</span>
+      <button id="logout" class="link" hidden>Sign out</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="view-auth" class="card narrow" hidden>
+      <h1>Practice English sounds,<br />even offline.</h1>
+      <p class="muted">Vaani listens on your device first, then checks with the cloud when you're online.</p>
+      <form id="auth-form">
+        <label id="name-row" hidden>Name <input name="name" autocomplete="name" /></label>
+        <label>Email <input name="email" type="email" required autocomplete="email" /></label>
+        <label>Password <input name="password" type="password" minlength="8" required autocomplete="current-password" /></label>
+        <label id="l1-row" hidden>First language
+          <select name="l1"><option value="te">Telugu</option><option value="hi">Hindi</option><option value="other">Other</option></select>
+        </label>
+        <p id="auth-error" class="error" hidden></p>
+        <button class="primary" type="submit" id="auth-submit">Sign in</button>
+        <button class="link" type="button" id="auth-toggle">New here? Create an account</button>
+      </form>
+    </section>
+
+    <section id="view-practice" hidden>
+      <div id="handoff" class="banner" hidden></div>
+      <div class="card drill">
+        <div class="drill-head">
+          <div id="targets" class="chips"></div>
+          <button id="next" class="link">Next sentence →</button>
+        </div>
+        <p id="sentence" class="sentence"></p>
+        <p id="phones" class="phones"></p>
+        <div class="record-row">
+          <button id="record" class="record" aria-label="Record"><span></span></button>
+          <div class="meter"><div id="level"></div></div>
+        </div>
+        <p id="rec-hint" class="muted center">Tap and read the sentence aloud. Recording stops when you pause.</p>
+        <details class="custom">
+          <summary>Practice your own sentence</summary>
+          <form id="custom-form"><input name="text" placeholder="Type any English sentence" maxlength="200" /><button>Use</button></form>
+        </details>
+      </div>
+
+      <div id="result" class="card result" hidden>
+        <div class="result-head">
+          <div class="score-ring" id="score-ring"><span id="score">–</span></div>
+          <div>
+            <div id="result-source" class="pill"></div>
+            <div id="result-extra" class="muted small"></div>
+          </div>
+        </div>
+        <p id="scored-words" class="scored-words"></p>
+        <div id="phone-detail" class="phone-detail" hidden></div>
+        <ul id="tips" class="tips"></ul>
+      </div>
+    </section>
+
+    <section id="view-progress" hidden>
+      <div class="card">
+        <div class="stats-row">
+          <div><b id="streak">0</b><span>day streak</span></div>
+          <div><b id="days">0</b><span>practice days</span></div>
+          <div><b id="queued">0</b><span>waiting to sync</span></div>
+        </div>
+      </div>
+      <div class="card">
+        <h2>Your sounds, weakest first</h2>
+        <div id="phone-bars" class="bars"></div>
+        <p class="muted small">Starts from common patterns for your first language, then follows your own scores.</p>
+      </div>
+      <div class="card">
+        <h2>Recent attempts</h2>
+        <ul id="recent" class="recent"></ul>
+      </div>
+    </section>
+  </main>
+  <div id="toast" class="toast" hidden></div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

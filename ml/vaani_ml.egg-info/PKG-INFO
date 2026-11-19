@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: vaani-ml
+Version: 0.1.0
+Summary: Phoneme recognition, GOP scoring and edge export for the Vaani pronunciation coach
+Requires-Python: >=3.10
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.10
+Requires-Dist: onnxruntime>=1.17
+Requires-Dist: cmudict>=1.0
+Requires-Dist: soundfile>=0.12
+Provides-Extra: train
+Requires-Dist: torch>=2.2; extra == "train"
+Requires-Dist: onnx>=1.15; extra == "train"
+Requires-Dist: onnxscript; extra == "train"
+Provides-Extra: dev
+Requires-Dist: pytest>=7; extra == "dev"

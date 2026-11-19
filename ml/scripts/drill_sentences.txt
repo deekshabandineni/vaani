@@ -1,0 +1,51 @@
+# focus | sentence      (original practice sentences for Vaani)
+V W | We visited the village very early on Wednesday.
+V W | Victor wore a wool vest in the winter wind.
+V W | The van will wait by the west wall.
+V W | We were very worried about the weather in the valley.
+V W | Volunteers walked over with warm vegetable soup.
+V | Her voice was vivid and lively.
+W | Why would we want to walk away now?
+Z JH | The zoo is closed on Thursdays in June.
+Z | His dogs were lazy and his days were busy.
+Z JH | Jason chose a zero sugar juice.
+Z | The prize was a dozen roses.
+TH | I think three thousand is enough for the theater.
+TH T | Thank you for the ten thoughtful tips.
+TH | Both of the athletes ran north through the path.
+DH | This is the weather that they like.
+DH D | They didn't bother with the other door.
+DH | Their brother breathes slowly.
+AE EH | The man had a bad pen in his bag.
+AE | Pack the black hat and the jacket.
+AE EH | Ten cats sat on the mat after lunch.
+IH IY | Please sit in this seat.
+IH IY | The ship left with sheep and fish.
+IH IY | He will leave if he lives here.
+UH UW | Look at the full moon from the pool.
+UH UW | She took the blue book to school.
+OW | Go home and close the window.
+OW | Don't throw the old phone on the road.
+EY EH | They came late to the wedding.
+EY | Make a cake for the baby on Sunday.
+SH S | She sells fresh fish by the sea shore.
+SH | The station was rushed during the session.
+ZH | Measure the usual pleasure of a casual vision.
+ZH | The garage had a beige television.
+F P | Five fresh coffee cups are perfect for the office.
+F | Fifty fans followed the final.
+ER | The first girl heard the early bird.
+ER | Her work turned out to be perfect.
+AH | Banana bread is about as good as it gets.
+S | Stop at the school and speak to the staff.
+S | Students stay at the small station.
+TH DH | This thing is the third thing they thought of.
+V W Z | We have five wise wolves in the zoo.
+DH Z | These are the things those girls use.
+V F | Fifty of the vehicles have a faulty valve.
+TH S | The south mouth of the river is thick with fish.
+MIXED | Every evening we walk to the river with our friends.
+MIXED | Would you like vanilla or chocolate with that?
+MIXED | The software engineer fixed the issue very quickly.
+MIXED | I usually prefer water over juice in the morning.
+MIXED | Thanks for visiting us this weekend.

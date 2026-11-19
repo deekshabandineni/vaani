@@ -1,0 +1,9 @@
+**/node_modules
+**/dist
+**/__pycache__
+ml/runs
+ml/data
+.git
+.env
+e2e
+client/public/ort

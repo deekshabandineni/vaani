@@ -1,0 +1,38 @@
+# Local stack:  cp .env.example .env  (add Azure keys if you have them)  &&  docker compose up --build
+# App: http://localhost:8080   Gateway: http://localhost:3000   ML API: http://localhost:8000/docs
+# Trained models go in ./models (see docs/TRAINING.md). Without them the app runs in cloud-only (Azure) mode.
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment: { POSTGRES_USER: vaani, POSTGRES_PASSWORD: vaani, POSTGRES_DB: vaani }
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck: { test: ["CMD", "pg_isready", "-U", "vaani"], interval: 5s, retries: 10 }
+
+  ml-api:
+    build: { context: ., dockerfile: services/ml-api/Dockerfile }
+    environment:
+      AZURE_SPEECH_KEY: ${AZURE_SPEECH_KEY:-}
+      AZURE_SPEECH_REGION: ${AZURE_SPEECH_REGION:-}
+      FUSION_AZURE_WEIGHT: ${FUSION_AZURE_WEIGHT:-0.6}
+    volumes: [./models:/models:ro]
+    ports: ["8000:8000"]
+
+  gateway:
+    build: { context: ., dockerfile: services/gateway/Dockerfile }
+    environment:
+      DATABASE_URL: postgres://vaani:vaani@postgres:5432/vaani
+      JWT_SECRET: ${JWT_SECRET:?set JWT_SECRET in .env}
+      ML_API_URL: http://ml-api:8000
+    depends_on: { postgres: { condition: service_healthy }, ml-api: { condition: service_started } }
+    ports: ["3000:3000"]
+
+  client:
+    build:
+      context: .
+      dockerfile: client/Dockerfile
+      args: { VITE_API_URL: "http://localhost:3000" }
+    volumes: [./models:/usr/share/nginx/html/models:ro]
+    ports: ["8080:80"]
+
+volumes:
+  pgdata:

@@ -1,0 +1,3585 @@
+[
+ {
+  "id": "d001",
+  "text": "We visited the village very early on Wednesday.",
+  "focus": [
+   "V",
+   "W"
+  ],
+  "words": [
+   {
+    "word": "we",
+    "phones": [
+     "W",
+     "IY"
+    ]
+   },
+   {
+    "word": "visited",
+    "phones": [
+     "V",
+     "IH",
+     "Z",
+     "IH",
+     "T",
+     "IH",
+     "D"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "village",
+    "phones": [
+     "V",
+     "IH",
+     "L",
+     "AH",
+     "JH"
+    ]
+   },
+   {
+    "word": "very",
+    "phones": [
+     "V",
+     "EH",
+     "R",
+     "IY"
+    ]
+   },
+   {
+    "word": "early",
+    "phones": [
+     "ER",
+     "L",
+     "IY"
+    ]
+   },
+   {
+    "word": "on",
+    "phones": [
+     "AA",
+     "N"
+    ]
+   },
+   {
+    "word": "wednesday",
+    "phones": [
+     "W",
+     "EH",
+     "N",
+     "Z",
+     "D",
+     "IY"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d002",
+  "text": "Victor wore a wool vest in the winter wind.",
+  "focus": [
+   "V",
+   "W"
+  ],
+  "words": [
+   {
+    "word": "victor",
+    "phones": [
+     "V",
+     "IH",
+     "K",
+     "T",
+     "ER"
+    ]
+   },
+   {
+    "word": "wore",
+    "phones": [
+     "W",
+     "AO",
+     "R"
+    ]
+   },
+   {
+    "word": "a",
+    "phones": [
+     "AH"
+    ]
+   },
+   {
+    "word": "wool",
+    "phones": [
+     "W",
+     "UH",
+     "L"
+    ]
+   },
+   {
+    "word": "vest",
+    "phones": [
+     "V",
+     "EH",
+     "S",
+     "T"
+    ]
+   },
+   {
+    "word": "in",
+    "phones": [
+     "IH",
+     "N"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "winter",
+    "phones": [
+     "W",
+     "IH",
+     "N",
+     "T",
+     "ER"
+    ]
+   },
+   {
+    "word": "wind",
+    "phones": [
+     "W",
+     "AY",
+     "N",
+     "D"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d003",
+  "text": "The van will wait by the west wall.",
+  "focus": [
+   "V",
+   "W"
+  ],
+  "words": [
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "van",
+    "phones": [
+     "V",
+     "AE",
+     "N"
+    ]
+   },
+   {
+    "word": "will",
+    "phones": [
+     "W",
+     "IH",
+     "L"
+    ]
+   },
+   {
+    "word": "wait",
+    "phones": [
+     "W",
+     "EY",
+     "T"
+    ]
+   },
+   {
+    "word": "by",
+    "phones": [
+     "B",
+     "AY"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "west",
+    "phones": [
+     "W",
+     "EH",
+     "S",
+     "T"
+    ]
+   },
+   {
+    "word": "wall",
+    "phones": [
+     "W",
+     "AO",
+     "L"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d004",
+  "text": "We were very worried about the weather in the valley.",
+  "focus": [
+   "V",
+   "W"
+  ],
+  "words": [
+   {
+    "word": "we",
+    "phones": [
+     "W",
+     "IY"
+    ]
+   },
+   {
+    "word": "were",
+    "phones": [
+     "W",
+     "ER"
+    ]
+   },
+   {
+    "word": "very",
+    "phones": [
+     "V",
+     "EH",
+     "R",
+     "IY"
+    ]
+   },
+   {
+    "word": "worried",
+    "phones": [
+     "W",
+     "ER",
+     "IY",
+     "D"
+    ]
+   },
+   {
+    "word": "about",
+    "phones": [
+     "AH",
+     "B",
+     "AW",
+     "T"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "weather",
+    "phones": [
+     "W",
+     "EH",
+     "DH",
+     "ER"
+    ]
+   },
+   {
+    "word": "in",
+    "phones": [
+     "IH",
+     "N"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "valley",
+    "phones": [
+     "V",
+     "AE",
+     "L",
+     "IY"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d005",
+  "text": "Volunteers walked over with warm vegetable soup.",
+  "focus": [
+   "V",
+   "W"
+  ],
+  "words": [
+   {
+    "word": "volunteers",
+    "phones": [
+     "V",
+     "AA",
+     "L",
+     "AH",
+     "N",
+     "T",
+     "IH",
+     "R",
+     "Z"
+    ]
+   },
+   {
+    "word": "walked",
+    "phones": [
+     "W",
+     "AO",
+     "K",
+     "T"
+    ]
+   },
+   {
+    "word": "over",
+    "phones": [
+     "OW",
+     "V",
+     "ER"
+    ]
+   },
+   {
+    "word": "with",
+    "phones": [
+     "W",
+     "IH",
+     "DH"
+    ]
+   },
+   {
+    "word": "warm",
+    "phones": [
+     "W",
+     "AO",
+     "R",
+     "M"
+    ]
+   },
+   {
+    "word": "vegetable",
+    "phones": [
+     "V",
+     "EH",
+     "JH",
+     "T",
+     "AH",
+     "B",
+     "AH",
+     "L"
+    ]
+   },
+   {
+    "word": "soup",
+    "phones": [
+     "S",
+     "UW",
+     "P"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d006",
+  "text": "Her voice was vivid and lively.",
+  "focus": [
+   "V"
+  ],
+  "words": [
+   {
+    "word": "her",
+    "phones": [
+     "HH",
+     "ER"
+    ]
+   },
+   {
+    "word": "voice",
+    "phones": [
+     "V",
+     "OY",
+     "S"
+    ]
+   },
+   {
+    "word": "was",
+    "phones": [
+     "W",
+     "AA",
+     "Z"
+    ]
+   },
+   {
+    "word": "vivid",
+    "phones": [
+     "V",
+     "IH",
+     "V",
+     "AH",
+     "D"
+    ]
+   },
+   {
+    "word": "and",
+    "phones": [
+     "AH",
+     "N",
+     "D"
+    ]
+   },
+   {
+    "word": "lively",
+    "phones": [
+     "L",
+     "AY",
+     "V",
+     "L",
+     "IY"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d007",
+  "text": "Why would we want to walk away now?",
+  "focus": [
+   "W"
+  ],
+  "words": [
+   {
+    "word": "why",
+    "phones": [
+     "W",
+     "AY"
+    ]
+   },
+   {
+    "word": "would",
+    "phones": [
+     "W",
+     "UH",
+     "D"
+    ]
+   },
+   {
+    "word": "we",
+    "phones": [
+     "W",
+     "IY"
+    ]
+   },
+   {
+    "word": "want",
+    "phones": [
+     "W",
+     "AA",
+     "N",
+     "T"
+    ]
+   },
+   {
+    "word": "to",
+    "phones": [
+     "T",
+     "UW"
+    ]
+   },
+   {
+    "word": "walk",
+    "phones": [
+     "W",
+     "AO",
+     "K"
+    ]
+   },
+   {
+    "word": "away",
+    "phones": [
+     "AH",
+     "W",
+     "EY"
+    ]
+   },
+   {
+    "word": "now",
+    "phones": [
+     "N",
+     "AW"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d008",
+  "text": "The zoo is closed on Thursdays in June.",
+  "focus": [
+   "Z",
+   "JH"
+  ],
+  "words": [
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "zoo",
+    "phones": [
+     "Z",
+     "UW"
+    ]
+   },
+   {
+    "word": "is",
+    "phones": [
+     "IH",
+     "Z"
+    ]
+   },
+   {
+    "word": "closed",
+    "phones": [
+     "K",
+     "L",
+     "OW",
+     "Z",
+     "D"
+    ]
+   },
+   {
+    "word": "on",
+    "phones": [
+     "AA",
+     "N"
+    ]
+   },
+   {
+    "word": "thursdays",
+    "phones": [
+     "TH",
+     "ER",
+     "Z",
+     "D",
+     "EY",
+     "Z"
+    ]
+   },
+   {
+    "word": "in",
+    "phones": [
+     "IH",
+     "N"
+    ]
+   },
+   {
+    "word": "june",
+    "phones": [
+     "JH",
+     "UW",
+     "N"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d009",
+  "text": "His dogs were lazy and his days were busy.",
+  "focus": [
+   "Z"
+  ],
+  "words": [
+   {
+    "word": "his",
+    "phones": [
+     "HH",
+     "IH",
+     "Z"
+    ]
+   },
+   {
+    "word": "dogs",
+    "phones": [
+     "D",
+     "AA",
+     "G",
+     "Z"
+    ]
+   },
+   {
+    "word": "were",
+    "phones": [
+     "W",
+     "ER"
+    ]
+   },
+   {
+    "word": "lazy",
+    "phones": [
+     "L",
+     "EY",
+     "Z",
+     "IY"
+    ]
+   },
+   {
+    "word": "and",
+    "phones": [
+     "AH",
+     "N",
+     "D"
+    ]
+   },
+   {
+    "word": "his",
+    "phones": [
+     "HH",
+     "IH",
+     "Z"
+    ]
+   },
+   {
+    "word": "days",
+    "phones": [
+     "D",
+     "EY",
+     "Z"
+    ]
+   },
+   {
+    "word": "were",
+    "phones": [
+     "W",
+     "ER"
+    ]
+   },
+   {
+    "word": "busy",
+    "phones": [
+     "B",
+     "IH",
+     "Z",
+     "IY"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d010",
+  "text": "Jason chose a zero sugar juice.",
+  "focus": [
+   "Z",
+   "JH"
+  ],
+  "words": [
+   {
+    "word": "jason",
+    "phones": [
+     "JH",
+     "EY",
+     "S",
+     "AH",
+     "N"
+    ]
+   },
+   {
+    "word": "chose",
+    "phones": [
+     "CH",
+     "OW",
+     "Z"
+    ]
+   },
+   {
+    "word": "a",
+    "phones": [
+     "AH"
+    ]
+   },
+   {
+    "word": "zero",
+    "phones": [
+     "Z",
+     "IH",
+     "R",
+     "OW"
+    ]
+   },
+   {
+    "word": "sugar",
+    "phones": [
+     "SH",
+     "UH",
+     "G",
+     "ER"
+    ]
+   },
+   {
+    "word": "juice",
+    "phones": [
+     "JH",
+     "UW",
+     "S"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d011",
+  "text": "The prize was a dozen roses.",
+  "focus": [
+   "Z"
+  ],
+  "words": [
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "prize",
+    "phones": [
+     "P",
+     "R",
+     "AY",
+     "Z"
+    ]
+   },
+   {
+    "word": "was",
+    "phones": [
+     "W",
+     "AA",
+     "Z"
+    ]
+   },
+   {
+    "word": "a",
+    "phones": [
+     "AH"
+    ]
+   },
+   {
+    "word": "dozen",
+    "phones": [
+     "D",
+     "AH",
+     "Z",
+     "AH",
+     "N"
+    ]
+   },
+   {
+    "word": "roses",
+    "phones": [
+     "R",
+     "OW",
+     "Z",
+     "IH",
+     "Z"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d012",
+  "text": "I think three thousand is enough for the theater.",
+  "focus": [
+   "TH"
+  ],
+  "words": [
+   {
+    "word": "i",
+    "phones": [
+     "AY"
+    ]
+   },
+   {
+    "word": "think",
+    "phones": [
+     "TH",
+     "IH",
+     "NG",
+     "K"
+    ]
+   },
+   {
+    "word": "three",
+    "phones": [
+     "TH",
+     "R",
+     "IY"
+    ]
+   },
+   {
+    "word": "thousand",
+    "phones": [
+     "TH",
+     "AW",
+     "Z",
+     "AH",
+     "N",
+     "D"
+    ]
+   },
+   {
+    "word": "is",
+    "phones": [
+     "IH",
+     "Z"
+    ]
+   },
+   {
+    "word": "enough",
+    "phones": [
+     "IH",
+     "N",
+     "AH",
+     "F"
+    ]
+   },
+   {
+    "word": "for",
+    "phones": [
+     "F",
+     "AO",
+     "R"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "theater",
+    "phones": [
+     "TH",
+     "IY",
+     "AH",
+     "T",
+     "ER"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d013",
+  "text": "Thank you for the ten thoughtful tips.",
+  "focus": [
+   "TH",
+   "T"
+  ],
+  "words": [
+   {
+    "word": "thank",
+    "phones": [
+     "TH",
+     "AE",
+     "NG",
+     "K"
+    ]
+   },
+   {
+    "word": "you",
+    "phones": [
+     "Y",
+     "UW"
+    ]
+   },
+   {
+    "word": "for",
+    "phones": [
+     "F",
+     "AO",
+     "R"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "ten",
+    "phones": [
+     "T",
+     "EH",
+     "N"
+    ]
+   },
+   {
+    "word": "thoughtful",
+    "phones": [
+     "TH",
+     "AO",
+     "T",
+     "F",
+     "AH",
+     "L"
+    ]
+   },
+   {
+    "word": "tips",
+    "phones": [
+     "T",
+     "IH",
+     "P",
+     "S"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d014",
+  "text": "Both of the athletes ran north through the path.",
+  "focus": [
+   "TH"
+  ],
+  "words": [
+   {
+    "word": "both",
+    "phones": [
+     "B",
+     "OW",
+     "TH"
+    ]
+   },
+   {
+    "word": "of",
+    "phones": [
+     "AH",
+     "V"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "athletes",
+    "phones": [
+     "AE",
+     "TH",
+     "L",
+     "IY",
+     "T",
+     "S"
+    ]
+   },
+   {
+    "word": "ran",
+    "phones": [
+     "R",
+     "AE",
+     "N"
+    ]
+   },
+   {
+    "word": "north",
+    "phones": [
+     "N",
+     "AO",
+     "R",
+     "TH"
+    ]
+   },
+   {
+    "word": "through",
+    "phones": [
+     "TH",
+     "R",
+     "UW"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "path",
+    "phones": [
+     "P",
+     "AE",
+     "TH"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d015",
+  "text": "This is the weather that they like.",
+  "focus": [
+   "DH"
+  ],
+  "words": [
+   {
+    "word": "this",
+    "phones": [
+     "DH",
+     "IH",
+     "S"
+    ]
+   },
+   {
+    "word": "is",
+    "phones": [
+     "IH",
+     "Z"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "weather",
+    "phones": [
+     "W",
+     "EH",
+     "DH",
+     "ER"
+    ]
+   },
+   {
+    "word": "that",
+    "phones": [
+     "DH",
+     "AE",
+     "T"
+    ]
+   },
+   {
+    "word": "they",
+    "phones": [
+     "DH",
+     "EY"
+    ]
+   },
+   {
+    "word": "like",
+    "phones": [
+     "L",
+     "AY",
+     "K"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d016",
+  "text": "They didn't bother with the other door.",
+  "focus": [
+   "DH",
+   "D"
+  ],
+  "words": [
+   {
+    "word": "they",
+    "phones": [
+     "DH",
+     "EY"
+    ]
+   },
+   {
+    "word": "didn't",
+    "phones": [
+     "D",
+     "IH",
+     "D",
+     "AH",
+     "N",
+     "T"
+    ]
+   },
+   {
+    "word": "bother",
+    "phones": [
+     "B",
+     "AA",
+     "DH",
+     "ER"
+    ]
+   },
+   {
+    "word": "with",
+    "phones": [
+     "W",
+     "IH",
+     "DH"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "other",
+    "phones": [
+     "AH",
+     "DH",
+     "ER"
+    ]
+   },
+   {
+    "word": "door",
+    "phones": [
+     "D",
+     "AO",
+     "R"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d017",
+  "text": "Their brother breathes slowly.",
+  "focus": [
+   "DH"
+  ],
+  "words": [
+   {
+    "word": "their",
+    "phones": [
+     "DH",
+     "EH",
+     "R"
+    ]
+   },
+   {
+    "word": "brother",
+    "phones": [
+     "B",
+     "R",
+     "AH",
+     "DH",
+     "ER"
+    ]
+   },
+   {
+    "word": "breathes",
+    "phones": [
+     "B",
+     "R",
+     "IY",
+     "DH",
+     "Z"
+    ]
+   },
+   {
+    "word": "slowly",
+    "phones": [
+     "S",
+     "L",
+     "OW",
+     "L",
+     "IY"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d018",
+  "text": "The man had a bad pen in his bag.",
+  "focus": [
+   "AE",
+   "EH"
+  ],
+  "words": [
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "man",
+    "phones": [
+     "M",
+     "AE",
+     "N"
+    ]
+   },
+   {
+    "word": "had",
+    "phones": [
+     "HH",
+     "AE",
+     "D"
+    ]
+   },
+   {
+    "word": "a",
+    "phones": [
+     "AH"
+    ]
+   },
+   {
+    "word": "bad",
+    "phones": [
+     "B",
+     "AE",
+     "D"
+    ]
+   },
+   {
+    "word": "pen",
+    "phones": [
+     "P",
+     "EH",
+     "N"
+    ]
+   },
+   {
+    "word": "in",
+    "phones": [
+     "IH",
+     "N"
+    ]
+   },
+   {
+    "word": "his",
+    "phones": [
+     "HH",
+     "IH",
+     "Z"
+    ]
+   },
+   {
+    "word": "bag",
+    "phones": [
+     "B",
+     "AE",
+     "G"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d019",
+  "text": "Pack the black hat and the jacket.",
+  "focus": [
+   "AE"
+  ],
+  "words": [
+   {
+    "word": "pack",
+    "phones": [
+     "P",
+     "AE",
+     "K"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "black",
+    "phones": [
+     "B",
+     "L",
+     "AE",
+     "K"
+    ]
+   },
+   {
+    "word": "hat",
+    "phones": [
+     "HH",
+     "AE",
+     "T"
+    ]
+   },
+   {
+    "word": "and",
+    "phones": [
+     "AH",
+     "N",
+     "D"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "jacket",
+    "phones": [
+     "JH",
+     "AE",
+     "K",
+     "AH",
+     "T"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d020",
+  "text": "Ten cats sat on the mat after lunch.",
+  "focus": [
+   "AE",
+   "EH"
+  ],
+  "words": [
+   {
+    "word": "ten",
+    "phones": [
+     "T",
+     "EH",
+     "N"
+    ]
+   },
+   {
+    "word": "cats",
+    "phones": [
+     "K",
+     "AE",
+     "T",
+     "S"
+    ]
+   },
+   {
+    "word": "sat",
+    "phones": [
+     "S",
+     "AE",
+     "T"
+    ]
+   },
+   {
+    "word": "on",
+    "phones": [
+     "AA",
+     "N"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "mat",
+    "phones": [
+     "M",
+     "AE",
+     "T"
+    ]
+   },
+   {
+    "word": "after",
+    "phones": [
+     "AE",
+     "F",
+     "T",
+     "ER"
+    ]
+   },
+   {
+    "word": "lunch",
+    "phones": [
+     "L",
+     "AH",
+     "N",
+     "CH"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d021",
+  "text": "Please sit in this seat.",
+  "focus": [
+   "IH",
+   "IY"
+  ],
+  "words": [
+   {
+    "word": "please",
+    "phones": [
+     "P",
+     "L",
+     "IY",
+     "Z"
+    ]
+   },
+   {
+    "word": "sit",
+    "phones": [
+     "S",
+     "IH",
+     "T"
+    ]
+   },
+   {
+    "word": "in",
+    "phones": [
+     "IH",
+     "N"
+    ]
+   },
+   {
+    "word": "this",
+    "phones": [
+     "DH",
+     "IH",
+     "S"
+    ]
+   },
+   {
+    "word": "seat",
+    "phones": [
+     "S",
+     "IY",
+     "T"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d022",
+  "text": "The ship left with sheep and fish.",
+  "focus": [
+   "IH",
+   "IY"
+  ],
+  "words": [
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "ship",
+    "phones": [
+     "SH",
+     "IH",
+     "P"
+    ]
+   },
+   {
+    "word": "left",
+    "phones": [
+     "L",
+     "EH",
+     "F",
+     "T"
+    ]
+   },
+   {
+    "word": "with",
+    "phones": [
+     "W",
+     "IH",
+     "DH"
+    ]
+   },
+   {
+    "word": "sheep",
+    "phones": [
+     "SH",
+     "IY",
+     "P"
+    ]
+   },
+   {
+    "word": "and",
+    "phones": [
+     "AH",
+     "N",
+     "D"
+    ]
+   },
+   {
+    "word": "fish",
+    "phones": [
+     "F",
+     "IH",
+     "SH"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d023",
+  "text": "He will leave if he lives here.",
+  "focus": [
+   "IH",
+   "IY"
+  ],
+  "words": [
+   {
+    "word": "he",
+    "phones": [
+     "HH",
+     "IY"
+    ]
+   },
+   {
+    "word": "will",
+    "phones": [
+     "W",
+     "IH",
+     "L"
+    ]
+   },
+   {
+    "word": "leave",
+    "phones": [
+     "L",
+     "IY",
+     "V"
+    ]
+   },
+   {
+    "word": "if",
+    "phones": [
+     "IH",
+     "F"
+    ]
+   },
+   {
+    "word": "he",
+    "phones": [
+     "HH",
+     "IY"
+    ]
+   },
+   {
+    "word": "lives",
+    "phones": [
+     "L",
+     "IH",
+     "V",
+     "Z"
+    ]
+   },
+   {
+    "word": "here",
+    "phones": [
+     "HH",
+     "IY",
+     "R"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d024",
+  "text": "Look at the full moon from the pool.",
+  "focus": [
+   "UH",
+   "UW"
+  ],
+  "words": [
+   {
+    "word": "look",
+    "phones": [
+     "L",
+     "UH",
+     "K"
+    ]
+   },
+   {
+    "word": "at",
+    "phones": [
+     "AE",
+     "T"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "full",
+    "phones": [
+     "F",
+     "UH",
+     "L"
+    ]
+   },
+   {
+    "word": "moon",
+    "phones": [
+     "M",
+     "UW",
+     "N"
+    ]
+   },
+   {
+    "word": "from",
+    "phones": [
+     "F",
+     "R",
+     "AH",
+     "M"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "pool",
+    "phones": [
+     "P",
+     "UW",
+     "L"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d025",
+  "text": "She took the blue book to school.",
+  "focus": [
+   "UH",
+   "UW"
+  ],
+  "words": [
+   {
+    "word": "she",
+    "phones": [
+     "SH",
+     "IY"
+    ]
+   },
+   {
+    "word": "took",
+    "phones": [
+     "T",
+     "UH",
+     "K"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "blue",
+    "phones": [
+     "B",
+     "L",
+     "UW"
+    ]
+   },
+   {
+    "word": "book",
+    "phones": [
+     "B",
+     "UH",
+     "K"
+    ]
+   },
+   {
+    "word": "to",
+    "phones": [
+     "T",
+     "UW"
+    ]
+   },
+   {
+    "word": "school",
+    "phones": [
+     "S",
+     "K",
+     "UW",
+     "L"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d026",
+  "text": "Go home and close the window.",
+  "focus": [
+   "OW"
+  ],
+  "words": [
+   {
+    "word": "go",
+    "phones": [
+     "G",
+     "OW"
+    ]
+   },
+   {
+    "word": "home",
+    "phones": [
+     "HH",
+     "OW",
+     "M"
+    ]
+   },
+   {
+    "word": "and",
+    "phones": [
+     "AH",
+     "N",
+     "D"
+    ]
+   },
+   {
+    "word": "close",
+    "phones": [
+     "K",
+     "L",
+     "OW",
+     "S"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "window",
+    "phones": [
+     "W",
+     "IH",
+     "N",
+     "D",
+     "OW"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d027",
+  "text": "Don't throw the old phone on the road.",
+  "focus": [
+   "OW"
+  ],
+  "words": [
+   {
+    "word": "don't",
+    "phones": [
+     "D",
+     "OW",
+     "N",
+     "T"
+    ]
+   },
+   {
+    "word": "throw",
+    "phones": [
+     "TH",
+     "R",
+     "OW"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "old",
+    "phones": [
+     "OW",
+     "L",
+     "D"
+    ]
+   },
+   {
+    "word": "phone",
+    "phones": [
+     "F",
+     "OW",
+     "N"
+    ]
+   },
+   {
+    "word": "on",
+    "phones": [
+     "AA",
+     "N"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "road",
+    "phones": [
+     "R",
+     "OW",
+     "D"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d028",
+  "text": "They came late to the wedding.",
+  "focus": [
+   "EY",
+   "EH"
+  ],
+  "words": [
+   {
+    "word": "they",
+    "phones": [
+     "DH",
+     "EY"
+    ]
+   },
+   {
+    "word": "came",
+    "phones": [
+     "K",
+     "EY",
+     "M"
+    ]
+   },
+   {
+    "word": "late",
+    "phones": [
+     "L",
+     "EY",
+     "T"
+    ]
+   },
+   {
+    "word": "to",
+    "phones": [
+     "T",
+     "UW"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "wedding",
+    "phones": [
+     "W",
+     "EH",
+     "D",
+     "IH",
+     "NG"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d029",
+  "text": "Make a cake for the baby on Sunday.",
+  "focus": [
+   "EY"
+  ],
+  "words": [
+   {
+    "word": "make",
+    "phones": [
+     "M",
+     "EY",
+     "K"
+    ]
+   },
+   {
+    "word": "a",
+    "phones": [
+     "AH"
+    ]
+   },
+   {
+    "word": "cake",
+    "phones": [
+     "K",
+     "EY",
+     "K"
+    ]
+   },
+   {
+    "word": "for",
+    "phones": [
+     "F",
+     "AO",
+     "R"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "baby",
+    "phones": [
+     "B",
+     "EY",
+     "B",
+     "IY"
+    ]
+   },
+   {
+    "word": "on",
+    "phones": [
+     "AA",
+     "N"
+    ]
+   },
+   {
+    "word": "sunday",
+    "phones": [
+     "S",
+     "AH",
+     "N",
+     "D",
+     "EY"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d030",
+  "text": "She sells fresh fish by the sea shore.",
+  "focus": [
+   "SH",
+   "S"
+  ],
+  "words": [
+   {
+    "word": "she",
+    "phones": [
+     "SH",
+     "IY"
+    ]
+   },
+   {
+    "word": "sells",
+    "phones": [
+     "S",
+     "EH",
+     "L",
+     "Z"
+    ]
+   },
+   {
+    "word": "fresh",
+    "phones": [
+     "F",
+     "R",
+     "EH",
+     "SH"
+    ]
+   },
+   {
+    "word": "fish",
+    "phones": [
+     "F",
+     "IH",
+     "SH"
+    ]
+   },
+   {
+    "word": "by",
+    "phones": [
+     "B",
+     "AY"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "sea",
+    "phones": [
+     "S",
+     "IY"
+    ]
+   },
+   {
+    "word": "shore",
+    "phones": [
+     "SH",
+     "AO",
+     "R"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d031",
+  "text": "The station was rushed during the session.",
+  "focus": [
+   "SH"
+  ],
+  "words": [
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "station",
+    "phones": [
+     "S",
+     "T",
+     "EY",
+     "SH",
+     "AH",
+     "N"
+    ]
+   },
+   {
+    "word": "was",
+    "phones": [
+     "W",
+     "AA",
+     "Z"
+    ]
+   },
+   {
+    "word": "rushed",
+    "phones": [
+     "R",
+     "AH",
+     "SH",
+     "T"
+    ]
+   },
+   {
+    "word": "during",
+    "phones": [
+     "D",
+     "UH",
+     "R",
+     "IH",
+     "NG"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "session",
+    "phones": [
+     "S",
+     "EH",
+     "SH",
+     "AH",
+     "N"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d032",
+  "text": "Measure the usual pleasure of a casual vision.",
+  "focus": [
+   "ZH"
+  ],
+  "words": [
+   {
+    "word": "measure",
+    "phones": [
+     "M",
+     "EH",
+     "ZH",
+     "ER"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "usual",
+    "phones": [
+     "Y",
+     "UW",
+     "ZH",
+     "AH",
+     "W",
+     "AH",
+     "L"
+    ]
+   },
+   {
+    "word": "pleasure",
+    "phones": [
+     "P",
+     "L",
+     "EH",
+     "ZH",
+     "ER"
+    ]
+   },
+   {
+    "word": "of",
+    "phones": [
+     "AH",
+     "V"
+    ]
+   },
+   {
+    "word": "a",
+    "phones": [
+     "AH"
+    ]
+   },
+   {
+    "word": "casual",
+    "phones": [
+     "K",
+     "AE",
+     "ZH",
+     "AH",
+     "W",
+     "AH",
+     "L"
+    ]
+   },
+   {
+    "word": "vision",
+    "phones": [
+     "V",
+     "IH",
+     "ZH",
+     "AH",
+     "N"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d033",
+  "text": "The garage had a beige television.",
+  "focus": [
+   "ZH"
+  ],
+  "words": [
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "garage",
+    "phones": [
+     "G",
+     "ER",
+     "AA",
+     "ZH"
+    ]
+   },
+   {
+    "word": "had",
+    "phones": [
+     "HH",
+     "AE",
+     "D"
+    ]
+   },
+   {
+    "word": "a",
+    "phones": [
+     "AH"
+    ]
+   },
+   {
+    "word": "beige",
+    "phones": [
+     "B",
+     "EY",
+     "ZH"
+    ]
+   },
+   {
+    "word": "television",
+    "phones": [
+     "T",
+     "EH",
+     "L",
+     "AH",
+     "V",
+     "IH",
+     "ZH",
+     "AH",
+     "N"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d034",
+  "text": "Five fresh coffee cups are perfect for the office.",
+  "focus": [
+   "F",
+   "P"
+  ],
+  "words": [
+   {
+    "word": "five",
+    "phones": [
+     "F",
+     "AY",
+     "V"
+    ]
+   },
+   {
+    "word": "fresh",
+    "phones": [
+     "F",
+     "R",
+     "EH",
+     "SH"
+    ]
+   },
+   {
+    "word": "coffee",
+    "phones": [
+     "K",
+     "AA",
+     "F",
+     "IY"
+    ]
+   },
+   {
+    "word": "cups",
+    "phones": [
+     "K",
+     "AH",
+     "P",
+     "S"
+    ]
+   },
+   {
+    "word": "are",
+    "phones": [
+     "AA",
+     "R"
+    ]
+   },
+   {
+    "word": "perfect",
+    "phones": [
+     "P",
+     "ER",
+     "F",
+     "EH",
+     "K",
+     "T"
+    ]
+   },
+   {
+    "word": "for",
+    "phones": [
+     "F",
+     "AO",
+     "R"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "office",
+    "phones": [
+     "AO",
+     "F",
+     "IH",
+     "S"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d035",
+  "text": "Fifty fans followed the final.",
+  "focus": [
+   "F"
+  ],
+  "words": [
+   {
+    "word": "fifty",
+    "phones": [
+     "F",
+     "IH",
+     "F",
+     "T",
+     "IY"
+    ]
+   },
+   {
+    "word": "fans",
+    "phones": [
+     "F",
+     "AE",
+     "N",
+     "Z"
+    ]
+   },
+   {
+    "word": "followed",
+    "phones": [
+     "F",
+     "AA",
+     "L",
+     "OW",
+     "D"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "final",
+    "phones": [
+     "F",
+     "AY",
+     "N",
+     "AH",
+     "L"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d036",
+  "text": "The first girl heard the early bird.",
+  "focus": [
+   "ER"
+  ],
+  "words": [
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "first",
+    "phones": [
+     "F",
+     "ER",
+     "S",
+     "T"
+    ]
+   },
+   {
+    "word": "girl",
+    "phones": [
+     "G",
+     "ER",
+     "L"
+    ]
+   },
+   {
+    "word": "heard",
+    "phones": [
+     "HH",
+     "ER",
+     "D"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "early",
+    "phones": [
+     "ER",
+     "L",
+     "IY"
+    ]
+   },
+   {
+    "word": "bird",
+    "phones": [
+     "B",
+     "ER",
+     "D"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d037",
+  "text": "Her work turned out to be perfect.",
+  "focus": [
+   "ER"
+  ],
+  "words": [
+   {
+    "word": "her",
+    "phones": [
+     "HH",
+     "ER"
+    ]
+   },
+   {
+    "word": "work",
+    "phones": [
+     "W",
+     "ER",
+     "K"
+    ]
+   },
+   {
+    "word": "turned",
+    "phones": [
+     "T",
+     "ER",
+     "N",
+     "D"
+    ]
+   },
+   {
+    "word": "out",
+    "phones": [
+     "AW",
+     "T"
+    ]
+   },
+   {
+    "word": "to",
+    "phones": [
+     "T",
+     "UW"
+    ]
+   },
+   {
+    "word": "be",
+    "phones": [
+     "B",
+     "IY"
+    ]
+   },
+   {
+    "word": "perfect",
+    "phones": [
+     "P",
+     "ER",
+     "F",
+     "EH",
+     "K",
+     "T"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d038",
+  "text": "Banana bread is about as good as it gets.",
+  "focus": [
+   "AH"
+  ],
+  "words": [
+   {
+    "word": "banana",
+    "phones": [
+     "B",
+     "AH",
+     "N",
+     "AE",
+     "N",
+     "AH"
+    ]
+   },
+   {
+    "word": "bread",
+    "phones": [
+     "B",
+     "R",
+     "EH",
+     "D"
+    ]
+   },
+   {
+    "word": "is",
+    "phones": [
+     "IH",
+     "Z"
+    ]
+   },
+   {
+    "word": "about",
+    "phones": [
+     "AH",
+     "B",
+     "AW",
+     "T"
+    ]
+   },
+   {
+    "word": "as",
+    "phones": [
+     "AE",
+     "Z"
+    ]
+   },
+   {
+    "word": "good",
+    "phones": [
+     "G",
+     "UH",
+     "D"
+    ]
+   },
+   {
+    "word": "as",
+    "phones": [
+     "AE",
+     "Z"
+    ]
+   },
+   {
+    "word": "it",
+    "phones": [
+     "IH",
+     "T"
+    ]
+   },
+   {
+    "word": "gets",
+    "phones": [
+     "G",
+     "EH",
+     "T",
+     "S"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d039",
+  "text": "Stop at the school and speak to the staff.",
+  "focus": [
+   "S"
+  ],
+  "words": [
+   {
+    "word": "stop",
+    "phones": [
+     "S",
+     "T",
+     "AA",
+     "P"
+    ]
+   },
+   {
+    "word": "at",
+    "phones": [
+     "AE",
+     "T"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "school",
+    "phones": [
+     "S",
+     "K",
+     "UW",
+     "L"
+    ]
+   },
+   {
+    "word": "and",
+    "phones": [
+     "AH",
+     "N",
+     "D"
+    ]
+   },
+   {
+    "word": "speak",
+    "phones": [
+     "S",
+     "P",
+     "IY",
+     "K"
+    ]
+   },
+   {
+    "word": "to",
+    "phones": [
+     "T",
+     "UW"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "staff",
+    "phones": [
+     "S",
+     "T",
+     "AE",
+     "F"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d040",
+  "text": "Students stay at the small station.",
+  "focus": [
+   "S"
+  ],
+  "words": [
+   {
+    "word": "students",
+    "phones": [
+     "S",
+     "T",
+     "UW",
+     "D",
+     "AH",
+     "N",
+     "T",
+     "S"
+    ]
+   },
+   {
+    "word": "stay",
+    "phones": [
+     "S",
+     "T",
+     "EY"
+    ]
+   },
+   {
+    "word": "at",
+    "phones": [
+     "AE",
+     "T"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "small",
+    "phones": [
+     "S",
+     "M",
+     "AO",
+     "L"
+    ]
+   },
+   {
+    "word": "station",
+    "phones": [
+     "S",
+     "T",
+     "EY",
+     "SH",
+     "AH",
+     "N"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d041",
+  "text": "This thing is the third thing they thought of.",
+  "focus": [
+   "TH",
+   "DH"
+  ],
+  "words": [
+   {
+    "word": "this",
+    "phones": [
+     "DH",
+     "IH",
+     "S"
+    ]
+   },
+   {
+    "word": "thing",
+    "phones": [
+     "TH",
+     "IH",
+     "NG"
+    ]
+   },
+   {
+    "word": "is",
+    "phones": [
+     "IH",
+     "Z"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "third",
+    "phones": [
+     "TH",
+     "ER",
+     "D"
+    ]
+   },
+   {
+    "word": "thing",
+    "phones": [
+     "TH",
+     "IH",
+     "NG"
+    ]
+   },
+   {
+    "word": "they",
+    "phones": [
+     "DH",
+     "EY"
+    ]
+   },
+   {
+    "word": "thought",
+    "phones": [
+     "TH",
+     "AO",
+     "T"
+    ]
+   },
+   {
+    "word": "of",
+    "phones": [
+     "AH",
+     "V"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d042",
+  "text": "We have five wise wolves in the zoo.",
+  "focus": [
+   "V",
+   "W",
+   "Z"
+  ],
+  "words": [
+   {
+    "word": "we",
+    "phones": [
+     "W",
+     "IY"
+    ]
+   },
+   {
+    "word": "have",
+    "phones": [
+     "HH",
+     "AE",
+     "V"
+    ]
+   },
+   {
+    "word": "five",
+    "phones": [
+     "F",
+     "AY",
+     "V"
+    ]
+   },
+   {
+    "word": "wise",
+    "phones": [
+     "W",
+     "AY",
+     "Z"
+    ]
+   },
+   {
+    "word": "wolves",
+    "phones": [
+     "W",
+     "UH",
+     "L",
+     "V",
+     "Z"
+    ]
+   },
+   {
+    "word": "in",
+    "phones": [
+     "IH",
+     "N"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "zoo",
+    "phones": [
+     "Z",
+     "UW"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d043",
+  "text": "These are the things those girls use.",
+  "focus": [
+   "DH",
+   "Z"
+  ],
+  "words": [
+   {
+    "word": "these",
+    "phones": [
+     "DH",
+     "IY",
+     "Z"
+    ]
+   },
+   {
+    "word": "are",
+    "phones": [
+     "AA",
+     "R"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "things",
+    "phones": [
+     "TH",
+     "IH",
+     "NG",
+     "Z"
+    ]
+   },
+   {
+    "word": "those",
+    "phones": [
+     "DH",
+     "OW",
+     "Z"
+    ]
+   },
+   {
+    "word": "girls",
+    "phones": [
+     "G",
+     "ER",
+     "L",
+     "Z"
+    ]
+   },
+   {
+    "word": "use",
+    "phones": [
+     "Y",
+     "UW",
+     "S"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d044",
+  "text": "Fifty of the vehicles have a faulty valve.",
+  "focus": [
+   "V",
+   "F"
+  ],
+  "words": [
+   {
+    "word": "fifty",
+    "phones": [
+     "F",
+     "IH",
+     "F",
+     "T",
+     "IY"
+    ]
+   },
+   {
+    "word": "of",
+    "phones": [
+     "AH",
+     "V"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "vehicles",
+    "phones": [
+     "V",
+     "IY",
+     "HH",
+     "IH",
+     "K",
+     "AH",
+     "L",
+     "Z"
+    ]
+   },
+   {
+    "word": "have",
+    "phones": [
+     "HH",
+     "AE",
+     "V"
+    ]
+   },
+   {
+    "word": "a",
+    "phones": [
+     "AH"
+    ]
+   },
+   {
+    "word": "faulty",
+    "phones": [
+     "F",
+     "AO",
+     "L",
+     "T",
+     "IY"
+    ]
+   },
+   {
+    "word": "valve",
+    "phones": [
+     "V",
+     "AE",
+     "L",
+     "V"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d045",
+  "text": "The south mouth of the river is thick with fish.",
+  "focus": [
+   "TH",
+   "S"
+  ],
+  "words": [
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "south",
+    "phones": [
+     "S",
+     "AW",
+     "TH"
+    ]
+   },
+   {
+    "word": "mouth",
+    "phones": [
+     "M",
+     "AW",
+     "TH"
+    ]
+   },
+   {
+    "word": "of",
+    "phones": [
+     "AH",
+     "V"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "river",
+    "phones": [
+     "R",
+     "IH",
+     "V",
+     "ER"
+    ]
+   },
+   {
+    "word": "is",
+    "phones": [
+     "IH",
+     "Z"
+    ]
+   },
+   {
+    "word": "thick",
+    "phones": [
+     "TH",
+     "IH",
+     "K"
+    ]
+   },
+   {
+    "word": "with",
+    "phones": [
+     "W",
+     "IH",
+     "DH"
+    ]
+   },
+   {
+    "word": "fish",
+    "phones": [
+     "F",
+     "IH",
+     "SH"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d046",
+  "text": "Every evening we walk to the river with our friends.",
+  "focus": [],
+  "words": [
+   {
+    "word": "every",
+    "phones": [
+     "EH",
+     "V",
+     "ER",
+     "IY"
+    ]
+   },
+   {
+    "word": "evening",
+    "phones": [
+     "IY",
+     "V",
+     "N",
+     "IH",
+     "NG"
+    ]
+   },
+   {
+    "word": "we",
+    "phones": [
+     "W",
+     "IY"
+    ]
+   },
+   {
+    "word": "walk",
+    "phones": [
+     "W",
+     "AO",
+     "K"
+    ]
+   },
+   {
+    "word": "to",
+    "phones": [
+     "T",
+     "UW"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "river",
+    "phones": [
+     "R",
+     "IH",
+     "V",
+     "ER"
+    ]
+   },
+   {
+    "word": "with",
+    "phones": [
+     "W",
+     "IH",
+     "DH"
+    ]
+   },
+   {
+    "word": "our",
+    "phones": [
+     "AW",
+     "ER"
+    ]
+   },
+   {
+    "word": "friends",
+    "phones": [
+     "F",
+     "R",
+     "EH",
+     "N",
+     "D",
+     "Z"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d047",
+  "text": "Would you like vanilla or chocolate with that?",
+  "focus": [],
+  "words": [
+   {
+    "word": "would",
+    "phones": [
+     "W",
+     "UH",
+     "D"
+    ]
+   },
+   {
+    "word": "you",
+    "phones": [
+     "Y",
+     "UW"
+    ]
+   },
+   {
+    "word": "like",
+    "phones": [
+     "L",
+     "AY",
+     "K"
+    ]
+   },
+   {
+    "word": "vanilla",
+    "phones": [
+     "V",
+     "AH",
+     "N",
+     "IH",
+     "L",
+     "AH"
+    ]
+   },
+   {
+    "word": "or",
+    "phones": [
+     "AO",
+     "R"
+    ]
+   },
+   {
+    "word": "chocolate",
+    "phones": [
+     "CH",
+     "AO",
+     "K",
+     "L",
+     "AH",
+     "T"
+    ]
+   },
+   {
+    "word": "with",
+    "phones": [
+     "W",
+     "IH",
+     "DH"
+    ]
+   },
+   {
+    "word": "that",
+    "phones": [
+     "DH",
+     "AE",
+     "T"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d048",
+  "text": "The software engineer fixed the issue very quickly.",
+  "focus": [],
+  "words": [
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "software",
+    "phones": [
+     "S",
+     "AO",
+     "F",
+     "T",
+     "W",
+     "EH",
+     "R"
+    ]
+   },
+   {
+    "word": "engineer",
+    "phones": [
+     "EH",
+     "N",
+     "JH",
+     "AH",
+     "N",
+     "IH",
+     "R"
+    ]
+   },
+   {
+    "word": "fixed",
+    "phones": [
+     "F",
+     "IH",
+     "K",
+     "S",
+     "T"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "issue",
+    "phones": [
+     "IH",
+     "SH",
+     "UW"
+    ]
+   },
+   {
+    "word": "very",
+    "phones": [
+     "V",
+     "EH",
+     "R",
+     "IY"
+    ]
+   },
+   {
+    "word": "quickly",
+    "phones": [
+     "K",
+     "W",
+     "IH",
+     "K",
+     "L",
+     "IY"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d049",
+  "text": "I usually prefer water over juice in the morning.",
+  "focus": [],
+  "words": [
+   {
+    "word": "i",
+    "phones": [
+     "AY"
+    ]
+   },
+   {
+    "word": "usually",
+    "phones": [
+     "Y",
+     "UW",
+     "ZH",
+     "AH",
+     "W",
+     "AH",
+     "L",
+     "IY"
+    ]
+   },
+   {
+    "word": "prefer",
+    "phones": [
+     "P",
+     "R",
+     "AH",
+     "F",
+     "ER"
+    ]
+   },
+   {
+    "word": "water",
+    "phones": [
+     "W",
+     "AO",
+     "T",
+     "ER"
+    ]
+   },
+   {
+    "word": "over",
+    "phones": [
+     "OW",
+     "V",
+     "ER"
+    ]
+   },
+   {
+    "word": "juice",
+    "phones": [
+     "JH",
+     "UW",
+     "S"
+    ]
+   },
+   {
+    "word": "in",
+    "phones": [
+     "IH",
+     "N"
+    ]
+   },
+   {
+    "word": "the",
+    "phones": [
+     "DH",
+     "AH"
+    ]
+   },
+   {
+    "word": "morning",
+    "phones": [
+     "M",
+     "AO",
+     "R",
+     "N",
+     "IH",
+     "NG"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d050",
+  "text": "Thanks for visiting us this weekend.",
+  "focus": [],
+  "words": [
+   {
+    "word": "thanks",
+    "phones": [
+     "TH",
+     "AE",
+     "NG",
+     "K",
+     "S"
+    ]
+   },
+   {
+    "word": "for",
+    "phones": [
+     "F",
+     "AO",
+     "R"
+    ]
+   },
+   {
+    "word": "visiting",
+    "phones": [
+     "V",
+     "IH",
+     "Z",
+     "IH",
+     "T",
+     "IH",
+     "NG"
+    ]
+   },
+   {
+    "word": "us",
+    "phones": [
+     "AH",
+     "S"
+    ]
+   },
+   {
+    "word": "this",
+    "phones": [
+     "DH",
+     "IH",
+     "S"
+    ]
+   },
+   {
+    "word": "weekend",
+    "phones": [
+     "W",
+     "IY",
+     "K",
+     "EH",
+     "N",
+     "D"
+    ]
+   }
+  ]
+ }
+]

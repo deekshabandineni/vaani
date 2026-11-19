@@ -1,0 +1,7 @@
+{
+  "name": "vaani-e2e",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "./run.sh" },
+  "dependencies": { "puppeteer-core": "^24.0.0" }
+}

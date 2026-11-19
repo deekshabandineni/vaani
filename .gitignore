@@ -1,0 +1,16 @@
+.env
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+ml/runs/
+ml/data/
+models/*
+!models/README.md
+client/public/ort/
+client/public/models/*
+e2e/*.png
+
+.venv/
+venv/

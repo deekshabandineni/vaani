@@ -15,6 +15,7 @@ import numpy as np
 import torch
 from torch.utils.data import Dataset
 
+from . import synth
 from .features import SAMPLE_RATE, log_mel, resample
 from .phonemes import PHONES, encode
 
@@ -57,25 +58,8 @@ class SyntheticPhoneDataset(Dataset):
         self.n, self.min_len, self.max_len, self.seed = n, min_len, max_len, seed
         self.phones = phones or PHONES
 
-    @staticmethod
-    def tone_for(phone: str) -> tuple[float, float]:
-        k = PHONES.index(phone)
-        return 250.0 + 90.0 * k, 4200.0 - 55.0 * k
-
-    @classmethod
-    def synthesize(cls, phones: list[str], rng: random.Random) -> np.ndarray:
-        chunks = [np.zeros(int(0.1 * SAMPLE_RATE), dtype=np.float32)]
-        for p in phones:
-            f1, f2 = cls.tone_for(p)
-            dur = rng.uniform(0.07, 0.14)
-            t = np.arange(int(dur * SAMPLE_RATE)) / SAMPLE_RATE
-            env = np.hanning(t.size)
-            amp = rng.uniform(0.2, 0.6)
-            chunks.append((amp * env * (np.sin(2 * np.pi * f1 * t) + 0.6 * np.sin(2 * np.pi * f2 * t))).astype(np.float32))
-            chunks.append(np.zeros(int(rng.uniform(0.0, 0.04) * SAMPLE_RATE), dtype=np.float32))
-        chunks.append(np.zeros(int(0.1 * SAMPLE_RATE), dtype=np.float32))
-        audio = np.concatenate(chunks)
-        return audio + np.float32(0.003) * np.random.default_rng(rng.randint(0, 1 << 30)).standard_normal(audio.size).astype(np.float32)
+    tone_for = staticmethod(synth.tone_for)
+    synthesize = staticmethod(synth.synthesize)
 
     def sample(self, i: int) -> tuple[list[str], np.ndarray]:
         rng = random.Random(self.seed * 100003 + i)

@@ -1,5 +1,5 @@
 """API tests. The fixture model was trained on synthetic tone 'speech' (see
-ml/vaani_ml/data.py), so we synthesise test audio the same way."""
+ml/vaani_ml/synth.py), so we synthesise test audio the same way."""
 import io
 import random
 import sys
@@ -17,13 +17,13 @@ from fastapi.testclient import TestClient  # noqa: E402
 from app import azure_client, main  # noqa: E402
 from app.config import Settings  # noqa: E402
 from app.fusion import attach_feedback, fuse  # noqa: E402
-from vaani_ml.data import SyntheticPhoneDataset  # noqa: E402
+from vaani_ml.synth import synthesize  # noqa: E402 (numpy only; this service has no PyTorch)
 
 MODEL = Path(__file__).parent / "fixtures" / "synthetic_int8.onnx"
 
 
 def wav_bytes(phones, seed=0):
-    audio = SyntheticPhoneDataset.synthesize(phones, random.Random(seed))
+    audio = synthesize(phones, random.Random(seed))
     buf = io.BytesIO()
     sf.write(buf, audio, 16000, format="WAV", subtype="PCM_16")
     return buf.getvalue()

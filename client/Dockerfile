@@ -12,5 +12,5 @@ RUN npm run build
 FROM nginx:1.27-alpine
 COPY --from=build /src/client/dist /usr/share/nginx/html
 # ONNX models are mounted at runtime so they can be updated without a rebuild
-RUN printf 'server {\n listen 80;\n root /usr/share/nginx/html;\n types { application/wasm wasm; application/octet-stream onnx; }\n location / { try_files $uri /index.html; }\n location /sw.js { add_header Cache-Control "no-cache"; }\n}\n' > /etc/nginx/conf.d/default.conf
+COPY client/nginx.conf /etc/nginx/conf.d/default.conf
 EXPOSE 80

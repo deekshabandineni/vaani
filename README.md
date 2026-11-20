@@ -136,6 +136,7 @@ Fill these in from `evaluate.py` and `benchmark.py` after training on real data
 | Model size FP32 → INT8 | 21.3 MB → 6.1 MB (measured, default config) |
 | Latency, 5 s audio, 1 CPU thread, FP32 → INT8 | _TBD on your hardware_ |
 | Local vs. Azure word-score agreement (Pearson) | _TBD_ |
+| In-browser latency (WASM, laptop, 5 sentences) | 116 ms median (87–192 ms) |s
 
 ## Roadmap
 

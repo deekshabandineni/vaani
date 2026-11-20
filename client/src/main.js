@@ -23,7 +23,12 @@ if ("serviceWorker" in navigator && import.meta.env.PROD) navigator.serviceWorke
 
 OnDeviceScorer.load()
   .then((s) => { state.scorer = s; setPill($("model-status"), `on-device ✓ (${Math.round(s.loadMs)} ms load)`, "on"); })
-  .catch(() => setPill($("model-status"), "cloud-only (no on-device model)", "off"));
+  .catch((err) => {
+    console.error("on-device model failed to load:", err);
+    const why = err?.message === "no model" ? "no on-device model" : `model error: ${String(err?.message ?? err).slice(0, 80)}`;
+    setPill($("model-status"), `cloud-only (${why})`, "off");
+    $("model-status").title = String(err?.stack ?? err);
+  });
 
 window.addEventListener("online", () => syncQueue());
 boot();
@@ -170,6 +175,7 @@ async function scoreAttempt(audio) {
   const createdAt = new Date().toISOString();
   const wav = encodeWav(audio);
   let deviceReport = null;
+  state.lastDeviceMs = null;
 
   if (state.scorer) {
     try {
@@ -186,7 +192,10 @@ async function scoreAttempt(audio) {
     if (!deviceReport?.ok) toast("Saved. You'll get your score when you're back online.");
     return;
   }
-  if (deviceReport?.ok) $("result-extra").textContent = "Checking with the cloud…";
+  if (deviceReport?.ok) {
+    state.lastDeviceMs = deviceReport.timings?.device_ms;
+    $("result-extra").textContent += " · checking with the cloud…";
+  }
   try {
     const { report } = await submitAttempt(item);
     if (state.current === drill) renderResult(report);
@@ -210,6 +219,7 @@ function renderResult(r) {
   setPill($("result-source"), label, r.source === "device" ? "" : "on");
   const extra = [];
   if (r.timings?.device_ms != null) extra.push(`scored on this device in ${r.timings.device_ms} ms`);
+  else if (state.lastDeviceMs != null) extra.push(`on-device: ${state.lastDeviceMs} ms`);
   if (r.overall.fluency != null) extra.push(`fluency ${Math.round(r.overall.fluency)}`);
   if (r.overall.completeness != null) extra.push(`completeness ${Math.round(r.overall.completeness)}`);
   $("result-extra").textContent = extra.join(" · ");
